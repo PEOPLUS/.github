@@ -31,4 +31,4 @@ If separate license information does not exist for published libraries or relate
 #### 끝으로... (Finally...)
 ```5765206c6f766520746563686e6f6c6f6779```
 
-[<span style="color: #588FF9; font-weight: bold;">life with PEO+ from DΔEGU</span>](http://peoplus.studio/mission)
+[<span style="color: #588FF9; font-weight: bold;">life with PEO+™ from DΔEGU</span>](http://peoplus.studio/mission)
