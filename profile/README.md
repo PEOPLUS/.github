@@ -28,7 +28,4 @@ Various libraries and related materials released through our GitHub account are 
 ##### English
 If separate license information does not exist for published libraries or related materials, BSD or MIT & Creative Commons License (CCL) 4.0 is followed, and for modified libraries, the license policy of the origin library is followed. For developed libraries by us, follow the PEOPLUS Exclusive Open License(PEOL).
 
-#### 끝으로... (Finally...)
-```5765206c6f766520746563686e6f6c6f6779```
-
 [<span style="color: #588FF9; font-weight: bold;">life with PEO+™ from DΔEGU</span>](http://peoplus.studio/mission)
